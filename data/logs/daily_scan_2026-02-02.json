@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-02-02T08:24:30.096211",
+  "markets_scanned": 5,
+  "markets_after_filter": 1,
+  "markets_analyzed": 1,
+  "trades_executed": 1,
+  "trades_skipped": 0,
+  "trade_details": [
+    {
+      "market_id": "527079",
+      "question": "Will GTA 6 cost $100+?",
+      "decision": "TRADE",
+      "side": "NO",
+      "position_size": 1000.0,
+      "entry_price": 0.5,
+      "agent_probability": 0.25,
+      "edge": 0.25,
+      "expected_value": 250.0,
+      "reasoning": "Base rate of AAA games at $100 standard edition is 0%. Despite media speculation, no concrete evidence supports $100 pricing. GTA Online monetization reduces need for higher base price."
+    }
+  ],
+  "risk_status": {
+    "bankroll": 10000.0,
+    "drawdown": 0.0,
+    "daily_pnl": 0.0,
+    "kill_switch": "INACTIVE",
+    "open_positions": 1
+  }
+}
